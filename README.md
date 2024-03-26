@@ -20,5 +20,6 @@ Je code particulièrement en HTML/CSS, Python, JavaScript et Java.
 - 💭 Discord : [mogigame](https://discord.gg/D8hYqzXx64)
 
 N'hésitez pas à me contacter afin d'échanger des idées et des conseils sur le développement !
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogigameytb&theme=material-palenight&show_icons=true" align="center"/>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogigameytb&theme=material-palenight&show_icons=true"/>
+  </p>
