@@ -21,5 +21,5 @@ Je code particulièrement en HTML/CSS, Python, JavaScript et Java.
 
 N'hésitez pas à me contacter afin d'échanger des idées et des conseils sur le développement !
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogigameytb&theme=material-palenight&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mogigame&theme=material-palenight&show_icons=true"/>
   </p>
